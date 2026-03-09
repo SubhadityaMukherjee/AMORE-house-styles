@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 3508 2481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g id="logo-red" serif:id="logo red" transform="matrix(1.04915,0,0,1.04915,-22.5562,-49.7302)">
+    <g id="logo-white" serif:id="logo white" transform="matrix(1.04915,0,0,1.04915,-22.5562,-49.7302)">
         <g id="Layer1" transform="matrix(1,0,0,1,-2.16004,2.48941)">
             <path d="M1631.98,360.235C1638.13,371.537 1633.94,385.706 1622.64,391.856C1611.34,398.006 1597.17,393.823 1591.02,382.521C1588.3,377.522 1575.42,365.354 1556.3,349.705C1506.22,308.712 1414.35,249.881 1317.86,245.855C1215.7,241.592 1098.43,259.136 998.597,363.61C904.167,462.426 886.647,568.398 892.512,647.448C898.733,731.284 914.799,769.826 916.036,772.93C949.014,855.68 1007.68,967.382 1079.61,1039.84C1281.65,1243.38 1541.29,1440.13 1585.91,1470.99C1596.49,1478.31 1599.14,1492.84 1591.82,1503.42C1584.5,1514.01 1569.97,1516.65 1559.38,1509.34C1514.19,1478.08 1251.17,1278.85 1046.52,1072.69C970.302,995.919 907.662,877.867 872.722,790.191C871.348,786.744 852.924,744.035 846.013,650.898C839.414,561.965 858.651,442.567 964.886,331.396C1076,215.125 1206.11,194.524 1319.8,199.268C1427.24,203.751 1530.07,267.981 1585.83,313.622C1612.08,335.107 1628.24,353.37 1631.98,360.235Z" style="fill:white;"/>
         </g>
@@ -84,9 +84,12 @@
         </g>
         <g transform="matrix(1,0,0,1,24.5246,-0.319318)">
             <g id="Layer11">
-                <g transform="matrix(258.333,0,0,258.333,2190.29,1942)">
+                <g>
+                    <text x="1102.96px" y="1942px" style="font-family:'AvenirNext-Bold', 'Avenir Next', sans-serif;font-weight:700;font-size:258.333px;fill:white;stroke:white;stroke-width:0.95px;stroke-linecap:butt;stroke-miterlimit:2;">AMOR/e</text>
+                    <g transform="matrix(258.333,0,0,258.333,1872.8,2200.33)">
+                    </g>
+                    <text x="1420.45px" y="2200.33px" style="font-family:'AvenirNext-Bold', 'Avenir Next', sans-serif;font-weight:700;font-size:258.333px;fill:white;stroke:white;stroke-width:0.95px;stroke-linecap:butt;stroke-miterlimit:2;">Lab</text>
                 </g>
-                <text x="1102.96px" y="1942px" style="font-family:'AvenirNext-Bold', 'Avenir Next', sans-serif;font-weight:700;font-size:258.333px;fill:white;stroke:white;stroke-width:0.95px;stroke-linecap:butt;stroke-miterlimit:2;">AMOR/e</text>
             </g>
         </g>
     </g>
